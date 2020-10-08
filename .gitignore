@@ -11,3 +11,8 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+# LaTeX compiled files
+cv/cv.*
+!cv/cv.tex
+!cv/cv.pdf
