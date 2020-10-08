@@ -1,16 +1,32 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Let me tell you about myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, my name is Furkan Karakaş. I am a master's student in the department of computer and communication sciences at Swiss Federal Institute of Technology Lausanne, or EPFL for short 😊
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Areas that I am interested in
 
-What else do you need?
+I have a strong interest in the following topics:
 
-### My story
+- cryptography and security,
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- distributed systems,
+
+- Blockchain networks,
+
+- computer networks, TCP/IP networking.
+
+On top of that, I like learning new stuff in the **HUGE** world of information technology by reading posts online. Furthermore, I have a
+special interest in mathematics, especially in number theory. I like reading mathematical proofs, and, if not successful every time, trying
+to prove "simple" mathematical statements 😊
+
+## What my goal is
+
+My goal is to become a life-long learner in the IT world by constantly refreshing myself and, as a result, to become successful in the work
+that I will be doing.
+
+## Previous education
+
+I graduated from Boğaziçi University in Istanbul, Turkey with a double degree in mathematics and electrical engineering.
