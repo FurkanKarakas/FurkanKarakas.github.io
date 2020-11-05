@@ -4,7 +4,7 @@ title: About me
 subtitle: Let me tell you about myself
 ---
 
-Hi, my name is Furkan Karakaş. I am a master's student in the department of computer and communication sciences at Swiss Federal Institute of Technology Lausanne, or EPFL for short 😊
+Hi, my name is Furkan Karakaş. I am a master's student in the department of computer and communication sciences at Swiss Federal Institute of Technology Lausanne, or EPFL for short.
 
 ## Areas that I am interested in
 
@@ -18,9 +18,10 @@ I have a strong interest in the following topics:
 
 - computer networks, TCP/IP networking.
 
-On top of that, I like learning new stuff in the **HUGE** world of information technology by reading posts online. Furthermore, I have a
-special interest in mathematics, especially in number theory. I like reading mathematical proofs, and, if not successful every time, trying
-to prove "simple" mathematical statements 😊
+In EPFL, I got the chance to take courses from different areas of computer science, which also include _artificial intelligence_ and _data science_.
+
+On top of that, I like learning new stuff in the **vast** world of information technology by reading posts online. Furthermore, I have a
+special interest in mathematics, especially in discrete mathematics which include _number theory_ and _group theory_. I like reading mathematical proofs, and, if not successful every time, trying to prove relatively simple mathematical statements.
 
 ## What my goal is
 
